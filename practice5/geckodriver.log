@@ -1,0 +1,73 @@
+1531633092048	geckodriver	INFO	Listening on 127.0.0.1:56015
+1531633095112	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.1nEgsE2i4rZC
+1531633095118	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1531633095127	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56024
+1531633097493	Marionette	INFO	Listening on port 56024
+1531633099262	Marionette	INFO	startBrowser cdf03b97-e799-49f6-99d0-1562cd88553b
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Py&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=2&pwd=P&cb=jQuery1102024719978223664962_1531633101286&_=1531633101289, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pytho&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=5&pwd=Pyth&cb=jQuery1102024719978223664962_1531633101286&_=1531633101292, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyt&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=3&pwd=Py&cb=jQuery1102024719978223664962_1531633101286&_=1531633101290, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyth&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=4&pwd=Pyt&cb=jQuery1102024719978223664962_1531633101286&_=1531633101291, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python%E6%A0%B8&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=7&pwd=Python&cb=jQuery1102024719978223664962_1531633101286&_=1531633101294, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=P&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=1&cb=jQuery1102024719978223664962_1531633101286&_=1531633101288, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python%E6%A0%B8%E5%BF%83&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=8&pwd=Python%E6%A0%B8&cb=jQuery1102024719978223664962_1531633101286&_=1531633101295, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=6&pwd=Pytho&cb=jQuery1102024719978223664962_1531633101286&_=1531633101293, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python%E6%A0%B8%E5%BF%83%E7%BC%96&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=9&pwd=Python%E6%A0%B8%E5%BF%83&cb=jQuery1102024719978223664962_1531633101286&_=1531633101296, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&json=1&p=3&sid=1455_21100_18559_22160&req=2&csor=10&pwd=Python%E6%A0%B8%E5%BF%83%E7%BC%96&cb=jQuery1102024719978223664962_1531633101286&_=1531633101297, line 1: TypeError: jQuery1102024719978223664962_1531633101286 is not a function
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+[Child 8628] ###!!!
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+ ABORT: Aborting on channel error.: file c:/builds/moz
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+2_slave/m-r
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+el-
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+[Child 8628] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+

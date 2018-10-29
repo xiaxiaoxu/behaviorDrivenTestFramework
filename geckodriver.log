@@ -1,0 +1,10 @@
+1531644545488	geckodriver	INFO	Listening on 127.0.0.1:58674
+1531644548569	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.wOrs0lFFShH3
+1531644548576	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1531644548585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58682
+1531644551036	Marionette	INFO	Listening on port 58682
+1531644552800	Marionette	INFO	startBrowser 501553fa-08cf-4184-93a1-144b1d74af77
+JavaScript error: http://you.163.com/item/detail?id=1450012&from=web_gg_mail_mailin_1, line 4: SyntaxError: expected expression, got '<'
+JavaScript warning: https://s3.music.126.net/web/s/core.js?8722746520ab92c880ddfee1f94fe7a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?0c59e24320c9843480b30e93df4d1e11, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?0c59e24320c9843480b30e93df4d1e11, line 11: unreachable code after return statement
